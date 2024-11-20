@@ -13,23 +13,23 @@ Para execução dos códigos acima, se faz necessário o conjunto de dados baixa
 
 EXECUTANDO O JUPYTER NOTEBOOK E INSTALANDOS AS BIBLIOTECAS NECESSÁRIAS
 
-1.Criação do ambiente:
+1. Criação do ambiente:
 ```bash
 conda create --nome nome_do_ambiente
 ```
-2.Ativando o ambiente criado do ambiente:
+2. Ativando o ambiente criado do ambiente:
 ```bash
 conda activate --nome nome_do_ambiente
 ```
-3.Instalando jupyter notebook:
+3. Instalando jupyter notebook:
 ```bash
 conda install jupyter
 ```
-4.Instalando as bibliotecas específicas:
+4. Instalando as bibliotecas específicas:
 ```bash
 conda install numpy scikit-image scikit-learn matplotlib seaborn pandas split-folders
 ```
-5.Iniciando o jupyter notebook:
+5. Iniciando o jupyter notebook:
 ```bash
 jupyter notebook
 ```
