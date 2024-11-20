@@ -1,6 +1,6 @@
 # Projeto de Classificação de Imagens no Conjunto de Dados MPEG7 Modificado
 
-Este repositório contém códigos relacionados à classificação do conjunto de dados e um relatório explicitando todas as etapas seguidas durante o trabalho.
+Este repositório contém códigos relacionados à classificação do conjunto de dados e um relatório em formato de artigo explicitando todas as etapas seguidas durante este projeto.
 
 ## Estrutura do Repositório
 -`knn`: Este código contém o classificador knn, juntamente de todos os resultados dos knn's para cada classe contida no conjunto de imagens, e com gráficos que facilitam a compreensão e identificação dos resultados para cada vizinho (k).
