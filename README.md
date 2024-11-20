@@ -3,15 +3,15 @@
 Este repositório contém códigos relacionados à classificação do conjunto de dados e um relatório explicitando todas as etapas seguidas durante o trabalho.
 
 ## Estrutura do Repositório
--`knn`: Código com o classificador knn e demonstrações dos resultados.
+-`knn`: Este código contém o classificador knn, juntamente de todos os resultados dos knn's para cada classe contida no conjunto de imagens, e com gráficos que facilitam a compreensão e identificação dos resultados para cada vizinho (k).
 
--`randon`: Código com segundo classificador Random Forest, escolhido pelos autores, as divisões do conjunto de dados, e resultados finais.
+-`randon`: Este código contém a divisão do conjunto de dados para treinamento e teste, juntamente com o processo de data augmentation, possui também os resultados obtidos pelo modelo, representados em números e em gráficos de cada métrica utilizada, para cada classe contida no conjunto de dados, e a plotagem de uma matriz confusão, e para finalizar um segundo classificador chamado de Random Forest, para demonstrar como o modelo está classificando cada imagem de cada classe, o classificador foi escolhido pelos autores.
 
 ## Dependências
 
-Para execução dos códigos acima é necessario ja obter o conjunto de dados baixado, especificar o caminho nós dois códigos, e necessitam de um ambiente jupyter criado, e também se faz necessário instalações de algumas bibliotecas específicas. 
+Para execução dos códigos acima, se faz necessário o conjunto de dados baixado em sua máquina, uma especificação do caminho do diretório nós dois códigos, e também se tem a necessidade de ter um ambiente jupyter, e algumas bibliotecas específicas instaladas no computador. 
 
-EXECUTANDO O JUPYTER NOTEBOOK
+EXECUTANDO O JUPYTER NOTEBOOK E INSTALANDOS AS BIBLIOTECAS NECESSÁRIAS
 
 1.Criação do ambiente:
 ```bash
